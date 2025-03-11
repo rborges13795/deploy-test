@@ -32,6 +32,7 @@
       "fs-extra": "^11.2.0",
       "gsap": "^3.12.7",
       "irc": "^0.5.2",
+      "rimraf": "^4.0.0",
       "node": "^23.9.0",
       "save": "^2.4.0",
       "slick-carousel": "^1.8.1",
@@ -40,5 +41,8 @@
     },
     "engines": {
       "node": "18.x"
+    },
+    "optionalDependencies": {
+        "esbuild": "^0.15.0"
     }
   }
