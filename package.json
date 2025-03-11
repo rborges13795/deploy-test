@@ -40,7 +40,7 @@
       "vue": "^3.5.13"
     },
     "engines": {
-      "node": "18.x"
+      "node": "20.x"
     },
     "optionalDependencies": {
         "esbuild": "^0.15.0"
